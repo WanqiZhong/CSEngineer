@@ -53,7 +53,7 @@ SORT_ALGOS=("-m" "-q" "-h" "-i")
 SORT_ALGO_NAMES=("Merge" "Quick" "Heap" "Insert")
 
 # Create table header
-echo -e "\nLarge dataset test:"
+echo -e "\nResults:"
 echo "==============================================="
 echo "| Size | Data Type | Algorithm | Time (sec) |"
 echo "==============================================="
